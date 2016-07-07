@@ -1,4 +1,3 @@
-layout_spectrum: 0.8235671354923397
 typography_spectrum: 0.8502217882778496
 color:
   brandStrength: 0.6882368712686002
@@ -11,4 +10,13 @@ color:
     - '#BEDB39'
     - '#FFE11A'
     - '#FD7400'
-name: Rabatscher POST PRODUCTION | VFX | ANIMATION
+layout_spectrum: 0.8235671354923397
+author:
+  name: Jürgen Rabatscher
+  email: rabatscher@gmail.com
+  url: www.rabatscher.com
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/248fc8e2-57d0-4e0e-b154-25196d966dc2.png
+name: Rabatscher
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/fa20ec68-d5e2-453f-a3c6-cce65085fc4e.png
